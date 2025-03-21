@@ -1,0 +1,15 @@
+AB Testing Process
+    1.Understanding business problem & data
+    2.Detect and resolve problems in the data (Missing Value, Outliers, Unexpected Value)
+    3.Look summary stats and plots
+    4.Apply hypothesis testing and check assumptions
+    5.Check Normality & Homogeneity
+    6.Apply tests (Shapiro, Levene Test, T-Test, Welch Test, Mann Whitney U Test)
+    7.Evaluate the results
+    8.Make inferences
+    9.Recommend business decision to your customer/director/ceo etc.
+
+    Significance level/Type 1 error/a 
+    Type 11 error/1 - statistical power/B (statistical power - probability of accepting H1 when H1 is true - standard 0.8/80%
+    
+    Sample size (N)) = use formula

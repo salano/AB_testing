@@ -3,6 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+**/src/components/baseline.py
+**/src/components/baseline2.py
+**/src/components/baseline3.py
+**/src/components/proportion.py
+baseline.py
+baseline2.py
+baseline3.py
+proportion
+
+
 # C extensions
 *.so
 
