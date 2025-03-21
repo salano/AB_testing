@@ -45,9 +45,9 @@ Top 5 records after adding revenue Column search_tags impressions clicks revenue
 
 Plot the search tags against revenue
 Quantilte-Quantile plot - Straight diagonal line indicates normality
-![Alt text](data\QQ_1.png)
+![Alt text] (data/QQ_1.png)
 Histograms and boxplots plot - Distribution of data
-![Alt text](data\QQ_1.png)
+![Alt text] (data/QQ_1.png)
 As expected the data looks normally distributed from the histogram, boxplot and Quantile - Quantile plots
 
 Summary statictics of revenue:
